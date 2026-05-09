@@ -1712,10 +1712,10 @@ hp/video
 hpc/*/supported-applications.aspx?
 hpm
 hpmob
-http://archive.org/robots.txt
-http://instagram.com/robots.txt
-http://patreon.com/robots.txt
-http://wa.me/robots.txt
+http://dropbox.com/robots.txt
+http://storage.googleapis.com/robots.txt
+http://tinyurl.com/robots.txt
+http://wordpress.org/robots.txt
 hub?category=
 hz/contact-us/ajax/initiate-trusted-contact
 hz/help/contact/*/message/$
@@ -1973,6 +1973,7 @@ maps/contrib
 maps/d
 maps/dir
 maps/match
+maps/ms?
 maps/place
 maps/preview
 maps/reserve
@@ -3058,6 +3059,8 @@ using
 utils
 uviewer
 v1
+v1/initialize
+v1/rgstr
 v2
 v3
 v3/openapi
@@ -3492,7 +3495,7 @@ wiki/Wikipedia_Diskussion:Checkuser%2F
 wiki/Wikipedia_Diskussion:Spam-Blacklist-Log
 wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://itunes.apple.com/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://medium.com/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
 wiki/Wikipedia_talk%3AAdministrators%27_noticeboard
